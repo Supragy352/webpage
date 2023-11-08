@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\Dev\\C\\luc"
+		}
+	],
+	"build_systems": [
+		{
+			"target": "terminus_exec",
+			"name": "Make",
+			"cmd": ["make"]
+		}
+	]
+}

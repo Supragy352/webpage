@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"string",
+				"string.h>"
+			],
+			[
+				"tar",
+				"\"target\""
+			],
+			[
+				"shel",
+				"\"shell_cmd\""
+			],
+			[
+				"N",
+				"\"name\""
+			],
+			[
+				"buil",
+				"\"build_systems\""
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"size",
+				"SIZE_MAX"
+			],
+			[
+				"init",
+				"InitWindow"
+			],
+			[
+				"Init",
+				"InitAudioDevice"
+			],
+			[
+				"mathlib",
+				"mathlib.h>"
+			],
+			[
+				"vec2",
+				"Vec2"
+			],
+			[
+				"Vec",
+				"Vec2"
+			],
+			[
+				"VectorZ",
+				"VectorZero"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"floa",
+				"float"
+			],
+			[
+				"Vectrze",
+				"VectorZero"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"struc",
+				"struct"
+			],
+			[
+				"vec",
+				"vectors.h\""
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"ene",
+				"energy"
+			],
+			[
+				"velo",
+				"velocity"
+			],
+			[
+				"ray",
+				"raygui.h\""
+			],
+			[
+				"PY",
+				"PYLOCATE_DIR"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"sim",
+				"simulation_plot.png"
+			],
+			[
+				"BUL",
+				"BUILD_DIR"
+			],
+			[
+				"BU",
+				"BUILD_DIR"
+			],
+			[
+				"BUI",
+				"BUILD_DIR"
+			],
+			[
+				"simu",
+				"simulation_data.csv"
+			],
+			[
+				"simula",
+				"simulation_data.csv"
+			],
+			[
+				"INCL",
+				"INCLUDE_DIR"
+			],
+			[
+				"INC",
+				"INCLUDE_PATHS"
+			],
+			[
+				"printf",
+				"printf\tprintf …"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"puts",
+				"puts()"
+			],
+			[
+				"stdio",
+				"stdio.h>"
+			],
+			[
+				"math",
+				"math.h"
+			],
+			[
+				"shell",
+				"\"shell_cmd\""
+			],
+			[
+				"naem",
+				"\"name\""
+			],
+			[
+				"rea",
+				"read"
+			],
+			[
+				"plo",
+				"plotVariable"
+			],
+			[
+				"plot",
+				"plotVariable"
+			],
+			[
+				"plott",
+				"plotter.h\""
+			],
+			[
+				"cm",
+				"\"shell_cmd\""
+			],
+			[
+				"na",
+				"\"name\""
+			],
+			[
+				"drawPix",
+				"DrawPixel"
+			],
+			[
+				"draw",
+				"DrawPixel"
+			],
+			[
+				"pos",
+				"posY"
+			],
+			[
+				"parti",
+				"particle"
+			],
+			[
+				"col",
+				"colX"
+			],
+			[
+				"color",
+				"Color"
+			],
+			[
+				"screen",
+				"screenHeight"
+			],
+			[
+				"Par",
+				"particle"
+			],
+			[
+				"index",
+				"index_exclude_patterns"
+			],
+			[
+				"inde",
+				"index_exclude_patterns"
+			],
+			[
+				"exclude",
+				"folder_exclude_patterns"
+			],
+			[
+				"sett",
+				"\"settings\""
+			],
+			[
+				"rand",
+				"random.h\""
+			],
+			[
+				"Objec",
+				"OBJECT_COUNT"
+			],
+			[
+				"DrawRect",
+				"DrawRectangleV"
+			],
+			[
+				"Ob",
+				"Object"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"se",
+				"\"build_systems\""
+			],
+			[
+				"Draw",
+				"DrawRectangle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Dev/C/luc/src/main.c",
+			"settings":
+			{
+				"buffer_size": 55,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					2,
+					"left_delete",
+					null,
+					"AgAAACEAAAAAAAAAIQAAAAAAAAAWAAAAICAgIHByaW50ZigiSGVsbG9cbiIpOyAAAAAAAAAAIAAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAAAAAAAAADcAAAAAAAAA////////738"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAKgAAAAAAAAAAAAAAIQAAAAAAAAAhAAAAAAAAAAQAAAAgICAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					3,
+					"left_delete",
+					null,
+					"AwAAACIAAAAAAAAAIgAAAAAAAAAEAAAAICAgICEAAAAAAAAAIQAAAAAAAAABAAAACiAAAAAAAAAAIAAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AwAAABMAAAAAAAAAFAAAAAAAAAAAAAAAIgAAAAAAAAAiAAAAAAAAAAQAAAAgICAgFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAASUA"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "stru"
+					},
+					"BAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					18,
+					6,
+					"left_delete",
+					null,
+					"BgAAABcAAAAAAAAAFwAAAAAAAAABAAAAdRYAAAAAAAAAFgAAAAAAAAABAAAAchUAAAAAAAAAFQAAAAAAAAABAAAAdBQAAAAAAAAAFAAAAAAAAAABAAAAcxMAAAAAAAAAEwAAAAAAAAABAAAAChIAAAAAAAAAEgAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "\n#inc"
+					},
+					"BQAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert_completion",
+					{
+						"completion": "include <${1:.h}>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "inc"
+					},
+					"AgAAABQAAAAAAAAAFAAAAAAAAAADAAAAaW5jFAAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "string"
+					},
+					"BwAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeAAAAAAAAAAIAAAAuaB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAdAAAAAAAAAB8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":29,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							15,
+							21,
+							3
+						],
+						"trigger": "string.h>"
+					},
+					"BgAAACIAAAAAAAAAIgAAAAAAAAABAAAAZyEAAAAAAAAAIQAAAAAAAAABAAAAbiAAAAAAAAAAIAAAAAAAAAABAAAAaR8AAAAAAAAAHwAAAAAAAAABAAAAch0AAAAAAAAAHQAAAAAAAAADAAAAc3Q+HQAAAAAAAAAmAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "Make",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"BUILD",
+					""
+				],
+				[
+					"PLOT",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"PLOT",
+				""
+			]
+		],
+		[
+			[
+				[
+					"BUILD",
+					""
+				],
+				[
+					"PLOT",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"PLOT",
+				""
+			]
+		],
+		[
+			[
+				[
+					"BUILD",
+					""
+				],
+				[
+					"PLOT",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"PLOT",
+				""
+			]
+		],
+		[
+			[
+				[
+					"BUILD",
+					""
+				],
+				[
+					"PLOT",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				]
+			],
+			[
+				"PLOT",
+				""
+			]
+		],
+		[
+			[
+				[
+					"BUILD",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"BUILD",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Make",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Make",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Make",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Make",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Make - Run",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save pro",
+				"Project: Save As"
+			],
+			[
+				"new",
+				"New File"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"open",
+				"Open Containing Folder…"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"spca",
+				"Scratch Pad"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"renae",
+				"Rename File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"add folder",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"switch",
+				"Switch Project"
+			],
+			[
+				"vpf",
+				"View Package File"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/C/luc"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/ucrt/string.h",
+		"/C/Dev/C/luc/.config/letusc.sublime-project",
+		"/C/Dev/C/luc/src/main.c",
+		"/C/Dev/C/luc/Makefile",
+		"/D/Dev/C/physics/src/main.c",
+		"/C/Programs/w64devkit/x86_64-w64-mingw32/include/raylib.h",
+		"/D/Dev/C/physics/src/plot.py",
+		"/D/Dev/C/physics/build/simulation_plot.png",
+		"/D/Dev/C/physics/Makefile",
+		"/D/Dev/C/physics/.config/rayphysics.sublime-project",
+		"/D/Dev/C/physics/compile_commands.json",
+		"/D/Dev/C/physics/plotterenv/Lib/site-packages/contourpy/util/mpl_util.py",
+		"/home/callisto/Dev/C/physics/src/main.c",
+		"/home/callisto/Dev/C/physics/build/simulation_plot.png",
+		"/usr/include/stdint.h",
+		"/home/callisto/Dev/C/physics/.config/rayphysics.sublime-project",
+		"/home/callisto/Dev/C/physics/Makefile",
+		"/home/callisto/Dev/C/physics/hello.c",
+		"/home/callisto/Dev/C/physics/include/vectors.h",
+		"/home/callisto/Dev/C/physics/src/plot.py",
+		"/home/callisto/Programs/raylib/src/raylib.h",
+		"/home/callisto/Dev/C/physics/build/simulation_data.csv",
+		"/usr/include/math.h",
+		"/home/callisto/Documents/notes/.obsidian/graph.json",
+		"/home/callisto/Dev/C/physics/simulation_plot.png",
+		"/home/callisto/Dev/C/physics/build/plot.py",
+		"/home/callisto/.config/sublime-text/scratchpad.txt",
+		"/home/callisto/Dev/C/physics/main.c",
+		"/home/callisto/Dev/C/physics/.gitignore",
+		"/home/callisto/Dev/C/physics/plotterenv/lib/python3.11/site-packages/matplotlib/_mathtext.py",
+		"/home/callisto/Dev/C/physics/vectors.h",
+		"/home/callisto/Dev/C/physics/simulation_data.csv",
+		"/home/callisto/Dev/C/physics/plot.py",
+		"/home/callisto/Dev/C/physics/data.txt",
+		"/home/callisto/Dev/C/physics/anim_plot.py",
+		"/home/callisto/Dev/C/physics/animation.mp4",
+		"/home/callisto/Dev/C/physics/plotter.h",
+		"/home/callisto/Dev/C/physics/main.cpp",
+		"/usr/include/c++/13.2.1/type_traits",
+		"/usr/include/matplot/matplot.h",
+		"/usr/include/matplot/util/type_traits.h",
+		"/home/callisto/Programs/raylib/examples/core/core_3d_camera_first_person.c",
+		"/home/callisto/Dev/C/physics/particle.h",
+		"/usr/local/include/raylib.h",
+		"/home/callisto/Dev/C/physics/laws.h",
+		"/usr/lib/clang/15.0.7/include/stdbool.h",
+		"/home/callisto/Dev/C/physics/canvas_center.h",
+		"/home/callisto/Programs/raylib/examples/core/core_input_gamepad.c",
+		"/home/callisto/Programs/raylib/examples/core/core_basic_window.c",
+		"/home/callisto/Programs/raylib/parser/raylib_api.txt",
+		"/home/callisto/Dev/C/papers_please/papers_please.sublime-project",
+		"/home/callisto/Dev/C/papers_please/object.h",
+		"/home/callisto/Dev/C/papers_please/main.c",
+		"/home/callisto/Dev/C/papers_please/random.h",
+		"/home/callisto/Programs/raylib/examples/models/models_waving_cubes.c",
+		"/home/callisto/Programs/raylib/examples/models/models_first_person_maze.c",
+		"/usr/include/csinc.h",
+		"/usr/include/stdio.h",
+		"/home/callisto/Dev/C/papers_please/Makefile",
+		"/home/callisto/.config/sublime-text/Packages/C++/C++ Single File.sublime-build",
+		"/home/callisto/Programs/raylib/examples/papersplease/main.c",
+		"/home/callisto/Programs/raylib/examples/papersplease/Makefile",
+		"/home/callisto/Programs/raylib/examples/Makefile",
+		"/home/callisto/Programs/raylib/examples/core/core_basic_window"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Dev/C/luc/src/main.c",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": "\\",
+									"selector": "text.tex.latex"
+								},
+								{
+									"characters": ".<>:\"/*",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///C:/Dev/C/luc/src/main.c",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Powershell":
+	{
+		"height": 396.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 504.0
+	},
+	"output.ZSH":
+	{
+		"height": 236.0
+	},
+	"output.diagnostics":
+	{
+		"height": 216.0
+	},
+	"output.exec":
+	{
+		"height": 324.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 156.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 216.0
+	},
+	"pinned_build_system": "",
+	"project": "letusc.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sub",
+				".config\\letusc.sublime-project"
+			],
+			[
+				"subli",
+				".config\\letusc.sublime-project"
+			],
+			[
+				"main",
+				"src\\main.c"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"plot",
+				"src\\plot.py"
+			],
+			[
+				"plo",
+				"src\\plot.py"
+			],
+			[
+				"sublime",
+				".config\\rayphysics.sublime-project"
+			],
+			[
+				"ma",
+				"Makefile"
+			],
+			[
+				"comp",
+				"compile_commands.json"
+			],
+			[
+				"compui",
+				"plotterenv\\Lib\\site-packages\\contourpy\\util\\mpl_util.py"
+			],
+			[
+				"p",
+				"src/plot.py"
+			],
+			[
+				"vect",
+				"include/vectors.h"
+			],
+			[
+				"main.c",
+				"src/main.c"
+			],
+			[
+				"makefi",
+				"Makefile"
+			],
+			[
+				"sim",
+				"simulation_data.csv"
+			],
+			[
+				"sublim",
+				".config/rayphysics.sublime-project"
+			],
+			[
+				"anima",
+				"animation.mp4"
+			],
+			[
+				"Mak",
+				"Makefile"
+			],
+			[
+				"data",
+				"data.txt"
+			],
+			[
+				"proe",
+				".config/rayphysics.sublime-project"
+			],
+			[
+				"la",
+				"laws.h"
+			],
+			[
+				".txt",
+				"parser/raylib_api.txt"
+			],
+			[
+				"modelsmaze",
+				"examples/models/models_first_person_maze.c"
+			],
+			[
+				"basic win",
+				"core/core_basic_window.c"
+			],
+			[
+				"corebasic",
+				"core/core_basic_window"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Dev\\PythonProjects\\manim_ce\\manim.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
