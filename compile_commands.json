@@ -1,0 +1,15 @@
+[
+  {
+    "directory": "D:/Dev/C/luc",
+    "file": "D:/Dev/C/luc/src/main.c",
+    "arguments": [
+      "C:/Programs/w64devkit/bin/gcc.exe",
+      "-c",
+      "./build/out.o",
+      "-I/home/callisto/Programs/raylib/src",
+      "-I/home/callisto/Programs/raylib/src/external",
+      "-I./include/",
+      "-IC:/Programs/w64devkit/x86_64-w64-mingw32/include"
+    ]
+  }
+]

@@ -1,2 +1,8 @@
+CC = gcc
+FILE = main.c
+
 all:
-	gcc ./src/main.c -o ./build/main.exe && "./build/main.exe"
+	$(CC) -c ./build/out.obj ./src/$(FILE) -o ./build/out.exe && "./build/out.exe"
+
+clean:
+	rm ./build/out.exe

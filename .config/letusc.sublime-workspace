@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"file",
+				"file_name"
+			],
+			[
+				"a",
+				"square"
+			],
+			[
+				"se",
+				"\"settings\""
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
 				"string",
 				"string.h>"
 			],
@@ -80,10 +96,6 @@
 				"vectors.h\""
 			],
 			[
-				"inc",
-				"inc\t#include \"…\""
-			],
-			[
 				"ene",
 				"energy"
 			],
@@ -98,10 +110,6 @@
 			[
 				"PY",
 				"PYLOCATE_DIR"
-			],
-			[
-				"file",
-				"file_path"
 			],
 			[
 				"sim",
@@ -264,10 +272,6 @@
 				"printf\tprintf …"
 			],
 			[
-				"se",
-				"\"build_systems\""
-			],
-			[
 				"Draw",
 				"DrawRectangle"
 			]
@@ -276,134 +280,157 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Dev/C/luc/src/main.c",
+			"contents": "#include <stdlib.h>\n#include <stdio.h>\n\nextern char **environ;\n\nint main(int argc, char const **argv, char **envp)\n{\n    for (int i = 0; i < count; ++i)\n    {\n        \n    }\n    return 0;\n}",
+			"file": "/C/Dev/C/luc/src/hello.c",
+			"file_size": 211,
+			"file_write_time": 133441149370306898,
 			"settings":
 			{
-				"buffer_size": 55,
+				"buffer_size": 189,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
 				[
-					5,
-					2,
-					"left_delete",
-					null,
-					"AgAAACEAAAAAAAAAIQAAAAAAAAAWAAAAICAgIHByaW50ZigiSGVsbG9cbiIpOyAAAAAAAAAAIAAAAAAAAAABAAAACg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAAAAAAAAADcAAAAAAAAA////////738"
-				],
-				[
-					6,
-					1,
-					"insert",
-					{
-						"characters": "\n\n"
-					},
-					"BQAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAKgAAAAAAAAAAAAAAIQAAAAAAAAAhAAAAAAAAAAQAAAAgICAg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					7,
-					3,
-					"left_delete",
-					null,
-					"AwAAACIAAAAAAAAAIgAAAAAAAAAEAAAAICAgICEAAAAAAAAAIQAAAAAAAAABAAAACiAAAAAAAAAAIAAAAAAAAAABAAAACg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					8,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AgAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAlAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					12,
-					1,
-					"insert",
-					{
-						"characters": "\n\n"
-					},
-					"AwAAABMAAAAAAAAAFAAAAAAAAAAAAAAAIgAAAAAAAAAiAAAAAAAAAAQAAAAgICAgFAAAAAAAAAAVAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAASUA"
-				],
-				[
 					14,
 					1,
 					"insert",
 					{
-						"characters": "stru"
+						"characters": "\n\n"
 					},
-					"BAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAAAA"
+					"AgAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAElA"
 				],
 				[
-					18,
-					6,
-					"left_delete",
-					null,
-					"BgAAABcAAAAAAAAAFwAAAAAAAAABAAAAdRYAAAAAAAAAFgAAAAAAAAABAAAAchUAAAAAAAAAFQAAAAAAAAABAAAAdBQAAAAAAAAAFAAAAAAAAAABAAAAcxMAAAAAAAAAEwAAAAAAAAABAAAAChIAAAAAAAAAEgAAAAAAAAABAAAACg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					19,
+					16,
 					1,
 					"insert",
 					{
-						"characters": "\n#inc"
+						"characters": "extern"
 					},
-					"BQAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAA8L8"
+					"BgAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " **envir"
+					},
+					"CAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "on"
+					},
+					"AgAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					20,
 					1,
-					"insert_completion",
+					"insert",
 					{
-						"completion": "include <${1:.h}>",
-						"format": "snippet",
-						"keep_prefix": false,
-						"must_insert": false,
-						"trigger": "inc"
+						"characters": "struct"
 					},
-					"AgAAABQAAAAAAAAAFAAAAAAAAAADAAAAaW5jFAAAAAAAAAAgAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAA8L8"
+					"BgAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					21,
 					1,
 					"insert",
 					{
-						"characters": "string"
+						"characters": " "
 					},
-					"BwAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeAAAAAAAAAAIAAAAuaB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAdAAAAAAAAAB8AAAAAAAAAAAAAAAAA8L8"
+					"AQAAADUAAAAAAAAANgAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					7,
+					"left_delete",
+					null,
+					"BwAAADUAAAAAAAAANQAAAAAAAAABAAAAIDQAAAAAAAAANAAAAAAAAAABAAAAdDMAAAAAAAAAMwAAAAAAAAABAAAAYzIAAAAAAAAAMgAAAAAAAAABAAAAdTEAAAAAAAAAMQAAAAAAAAABAAAAcjAAAAAAAAAAMAAAAAAAAAABAAAAdC8AAAAAAAAALwAAAAAAAAABAAAAcw",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					23,
 					1,
+					"insert",
+					{
+						"characters": "char"
+					},
+					"BAAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMwAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADMAAAAAAAAANAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAD0AAAAAAAAAPgAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAP///////+9/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "for"
+					},
+					"AwAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB7AAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAeQAAAAAAAAB5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
 					"insert_completion",
 					{
-						"completion": "lsp_select_completion {\"index\":29,\"session_name\":\"clangd\"}",
-						"format": "command",
-						"keep_prefix": true,
+						"completion": "for (int ${2:i} = 0; $2 < ${1:count}; ${3:++$2})\n{\n\t${0:/* code */}\n}",
+						"format": "snippet",
+						"keep_prefix": false,
 						"must_insert": false,
-						"query_change_id":
-						[
-							15,
-							21,
-							3
-						],
-						"trigger": "string.h>"
+						"trigger": "for"
 					},
-					"BgAAACIAAAAAAAAAIgAAAAAAAAABAAAAZyEAAAAAAAAAIQAAAAAAAAABAAAAbiAAAAAAAAAAIAAAAAAAAAABAAAAaR8AAAAAAAAAHwAAAAAAAAABAAAAch0AAAAAAAAAHQAAAAAAAAADAAAAc3Q+HQAAAAAAAAAmAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAA8L8"
+					"AgAAAHkAAAAAAAAAeQAAAAAAAAADAAAAZm9yeQAAAAAAAAC3AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKcAAAAAAAAApwAAAAAAAAAKAAAALyogY29kZSAqLw",
+					"AQAAAAAAAAABAAAApwAAAAAAAACxAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
+		},
+		{
+			"file": "/C/Dev/C/luc/Makefile",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "Make",
@@ -750,6 +777,34 @@
 		"selected_items":
 		[
 			[
+				"commit",
+				"Git: Commit history"
+			],
+			[
+				"outline",
+				"Browse Mode: FileBrowser Top Right, Outline Bottom Right"
+			],
+			[
+				"outli",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
 				"save pro",
 				"Project: Save As"
 			],
@@ -776,10 +831,6 @@
 			[
 				"remove",
 				"Package Control: Remove Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"git comm",
@@ -820,10 +871,6 @@
 			[
 				"save as",
 				"Project: Save As"
-			],
-			[
-				"add",
-				"Project: Add Folder"
 			],
 			[
 				"add folder",
@@ -878,14 +925,17 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Dev/C/luc"
+		"/C/Dev/C/luc",
+		"/C/Dev/C/luc/.config",
+		"/C/Dev/C/luc/include"
 	],
 	"file_history":
 	[
-		"/C/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/ucrt/string.h",
 		"/C/Dev/C/luc/.config/letusc.sublime-project",
-		"/C/Dev/C/luc/src/main.c",
 		"/C/Dev/C/luc/Makefile",
+		"/C/Dev/C/luc/src/hello.c",
+		"/C/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/ucrt/string.h",
+		"/C/Dev/C/luc/src/main.c",
 		"/D/Dev/C/physics/src/main.c",
 		"/C/Programs/w64devkit/x86_64-w64-mingw32/include/raylib.h",
 		"/D/Dev/C/physics/src/plot.py",
@@ -986,20 +1036,20 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Dev/C/luc/src/main.c",
+					"file": "/C/Dev/C/luc/src/hello.c",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 55,
+						"buffer_size": 189,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38,
-								38
+								116,
+								116
 							]
 						],
 						"settings":
@@ -1025,8 +1075,8 @@
 								}
 							],
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
-							"lsp_uri": "file:///C:/Dev/C/luc/src/main.c",
+							"lsp_hover_provider_count": 4,
+							"lsp_uri": "file:///C:/Dev/C/luc/src/hello.c",
 							"show_definitions": false,
 							"syntax": "Packages/C++/C.sublime-syntax",
 							"tab_size": 4,
@@ -1037,6 +1087,38 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Dev/C/luc/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///C:/Dev/C/luc/Makefile",
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1058,18 +1140,20 @@
 			[
 				0,
 				0,
-				1,
-				1
+				2,
+				2
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.2,
 			1.0
 		],
 		"rows":
 		[
 			0.0,
+			0.5,
 			1.0
 		]
 	},
@@ -1128,6 +1212,18 @@
 		"selected_items":
 		[
 			[
+				"hello",
+				"src\\hello.c"
+			],
+			[
+				"ma",
+				"Makefile"
+			],
+			[
+				"m",
+				"Makefile"
+			],
+			[
 				"sub",
 				".config\\letusc.sublime-project"
 			],
@@ -1154,10 +1250,6 @@
 			[
 				"sublime",
 				".config\\rayphysics.sublime-project"
-			],
-			[
-				"ma",
-				"Makefile"
 			],
 			[
 				"comp",
@@ -1238,7 +1330,7 @@
 		[
 			[
 				"",
-				"C:\\Dev\\PythonProjects\\manim_ce\\manim.sublime-project"
+				"C:\\Dev\\C\\raygame\\raygame.sublime-project"
 			]
 		],
 		"width": 380.0

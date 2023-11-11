@@ -9,7 +9,7 @@
 		{
 			"target": "terminus_exec",
 			"name": "Make",
-			"cmd": ["make"]
+			"cmd": ["make", "FILE=$file_name"]
 		}
 	]
 }
